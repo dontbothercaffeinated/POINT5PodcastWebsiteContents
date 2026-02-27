@@ -1,0 +1,27 @@
+{
+  "header": {
+    "title": "POINT5 Podcast",
+    "subtitle": "Your space to be heard. Schedule a session and join the conversation."
+  },
+  "welcome": {
+    "heading": "Welcome Guests",
+    "text": "We’re thrilled to have you on POINT5 Podcast! Our aim is to make you feel comfortable, heard, and ready to share your story. Please fill out the form below to schedule your recording session."
+  },
+  "booking": {
+    "heading": "Schedule Your Recording"
+  },
+  "guidance": {
+    "heading": "What to Expect",
+    "text": "Once you submit your booking, we’ll confirm your session via email. Our recordings are relaxed and conversational — you don’t need to worry about anything formal. Bring your ideas, stories, or topics, and we’ll guide the conversation with care."
+  },
+  "host": {
+    "heading": "Meet the Host",
+    "bio": "Hi, I’m [Your Name]! I host POINT5 Podcast and love sharing inspiring conversations with amazing guests.",
+    "photo": "your-photo.jpg",
+    "social": [
+      {"name": "Twitter", "url": "https://twitter.com/yourhandle"},
+      {"name": "Instagram", "url": "https://instagram.com/yourhandle"},
+      {"name": "LinkedIn", "url": "https://linkedin.com/in/yourhandle"}
+    ]
+  }
+}
