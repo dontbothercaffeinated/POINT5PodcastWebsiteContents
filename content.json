@@ -4,19 +4,19 @@
     "subtitle": "Your space to be heard. Schedule a session and join the conversation."
   },
   "welcome": {
-    "heading": "Welcome Guests",
-    "text": "We’re thrilled to have you on POINT5 Podcast! Our aim is to make you feel comfortable, heard, and ready to share your story. Please fill out the form below to schedule your recording session."
+    "heading": "Welcome!",
+    "text": "Thanks for checking out the official POINT5 Podcast website! This website was made to support the needs of my guests. I didn't include something you need?: please, let me know!"
   },
   "booking": {
     "heading": "Schedule Your Recording"
   },
   "guidance": {
     "heading": "What to Expect",
-    "text": "Once you submit your booking, we’ll confirm your session via email. Our recordings are relaxed and conversational — you don’t need to worry about anything formal. Bring your ideas, stories, or topics, and we’ll guide the conversation with care. This is an addition to test the github text storage feature. This is another addition."
+    "text": "After submitting your information in the form, I'll contact you by email. Our recordings are relaxed and conversational — you don’t need to worry about anything formal. Bring your ideas, stories, or topics, and we’ll guide the conversation with care. This is an addition to test the github text storage feature. This is another addition."
   },
   "host": {
     "heading": "Meet the Host",
-    "bio": "Hi, I’m [Your Name]! I host POINT5 Podcast and love sharing inspiring conversations with amazing guests.",
+    "bio": "Hi, I’m Kevin Nordio! I host POINT5 Podcast. I started the podcast to provide a space for people to be heard. If you're looking for the opportunity to showcase yourself to the world, I'd love to have you on the podcast. There's no better way to create your story than to share it with a public audience. I hope that you choose my podcast to share your stories.",
     "photo": "your-photo.jpg",
     "social": [
       {"name": "Twitter", "url": "https://twitter.com/yourhandle"},
